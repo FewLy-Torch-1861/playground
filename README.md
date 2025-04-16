@@ -1,7 +1,7 @@
 ## Just A Repositories To Play With `GIT`
 
 ## Files
-index.html [here](index.html)\n
+index.html [here](index.html) \n
 style.css [here](style.css)
 
 ## Assets
