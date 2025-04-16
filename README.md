@@ -2,6 +2,7 @@
 
 ## Files
 index.html [here](index.html)
+style.css [here](style.css)
 
 ## Assets
 
