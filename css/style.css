@@ -1,0 +1,26 @@
+@import url(color.css);
+
+@font-face {
+    font-family: 'JetBrains';
+    src: url('../fonts/JetBrainsMonoNerdFont.ttf') format('truetype');
+}
+
+* {
+    font-family: JetBrains, sans-serif;
+    background-color: var(--base);
+    color: var(--text);
+    font-size: 1em;
+}
+
+.title {
+    font-size: 4em;
+    text-align: center;
+}
+
+.link {
+    background: var(--lavender);
+    border: solid 0.1em var(--surface1);
+    border-radius: 1em;
+    font-size: 3em;
+    text-align: center;
+}
