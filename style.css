@@ -1,4 +1,14 @@
-:root {
-    font-family: Noto Sans Thai, sans-serif, monospace;
-    background-color: black;
+@import url(color.css);
+
+* {
+    font-family: monospace;
+    background-color: var(--base);
+    color: var(--text);
+    font-size: 1em;
+}
+
+.title {
+    font-size: 2em;
+    vertical-align: 0.5;
+    text-align: center;
 }
